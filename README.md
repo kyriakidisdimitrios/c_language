@@ -33,11 +33,11 @@ Before you start, ensure you have the following installed:
 
    ```sh
    git clone https://github.com/kyriakidisdimitrios/c_language.git 
-  Navigate into the project directory:
+2. **Navigate into the project directory:**
    ```sh
    cd c_language
    ```
-   Create a Build Directory
+3. **Create a Build Directory**
 
    ```sh
     mkdir build
