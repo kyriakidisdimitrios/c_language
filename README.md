@@ -6,13 +6,15 @@ Welcome to the C Language Project! This repository contains various C language e
 
 The repository is organized as follows:
 
-`c_language/
+```shell
+c_language/
 ├── all_files/
 │ ├── main.c
 │ ├── section1_pointers.c
 │ └── ...
 ├── CMakeLists.txt
-└── README.md`
+└── README.md
+```
 
 - **`all_files/`**: Contains C source files for the project.
 - **`CMakeLists.txt`**: CMake configuration file for building the project.
