@@ -27,4 +27,11 @@ add_executable(c_language all_files/main.c
         all_files/section5_16_printArrayElements.c
         all_files/section5_17_findArrayAverageUsingPointersRecursive.c
         all_files/section5_18_adjacentElementsSortedOnFloatingArray.c
-        all_files/section5_19_printNumberInBinaryUsingRecursion.c)
+        all_files/section5_19_printNumberInBinaryUsingRecursion.c
+        all_files/section6_1_SwappingOnComplexity.c
+        all_files/section6_1_SwappingOnComplexityO1.c
+        all_files/section_7_1_createReturnAllocatedArray.c
+        all_files/section_7_2_printDynamicallyAllocatedArray.c
+        all_files/section_7_3_realloc.c
+        all_files/section_7_4_universalReallocFunction.c
+        all_files/section7_5_reallocPerformance.c)
