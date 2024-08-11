@@ -34,4 +34,6 @@ add_executable(c_language all_files/main.c
         all_files/section_7_2_printDynamicallyAllocatedArray.c
         all_files/section_7_3_realloc.c
         all_files/section_7_4_universalReallocFunction.c
-        all_files/section7_5_reallocPerformance.c)
+        all_files/section7_5_reallocPerformance.c
+        all_files/section7_6_createPass1DArrayPointer2Pointer.c
+        all_files/section8_createArrayNoDuplicates.cpp)
