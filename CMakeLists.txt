@@ -36,4 +36,6 @@ add_executable(c_language all_files/main.c
         all_files/section_7_4_universalReallocFunction.c
         all_files/section7_5_reallocPerformance.c
         all_files/section7_6_createPass1DArrayPointer2Pointer.c
-        all_files/section8_createArrayNoDuplicates.cpp)
+        all_files/section_8_1_createArrayNoDuplicates.c
+        all_files/section_8_2_lowerUpperCaseAllocations.c
+        all_files/section_8_2_lowerUpperCaseAllocations2.c)
