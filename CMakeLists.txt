@@ -54,4 +54,9 @@ add_executable(c_language all_files/main.c
         all_files/section_10_1_returnStringToFunction.c
         all_files/section_10_2_ectraStringAndPointers.c
         all_files/section_11_stringLength.c
-        all_files/section_12_compare2StringsUsingPointers.c)
+        all_files/section_12_compare2StringsUsingPointers.c
+        all_files/section_13_createArrayOfStructVariablesInAStaticManner.c
+        all_files/section_13_dynamicallyAllocatedArrayOfStructs.c
+        all_files/section_13_passingStuctsToFunctionsByValue.c
+        all_files/section_13_structComposition.c
+        all_files/section_13_functionToDynamicallyAllocateArrayOfStructs.c)
