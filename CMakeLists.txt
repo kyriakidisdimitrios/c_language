@@ -44,5 +44,13 @@ add_executable(c_language all_files/main.c
         all_files/section_8_4_deleteFromArrayFunction.c
         all_files/section_8_5_copyArrayByReference.c
         all_files/section_8_5_copyArrayByReference2.c
-        all_files/section_9_arrayOfPointers.c
-        all_files/section_9_allocate2DMatrix.c)
+        all_files/section_9_2_arrayOfPointers.c
+        all_files/section_9_1_allocate2DMatrix.c
+        all_files/section_9_3_print2DMatrix.c
+        all_files/section_9_4_dynamicArraysSwap.c
+        all_files/section_9_4_dynamicArraysSwap2.c
+        all_files/section_9_5_lowerUpperTriangleMatrix.c
+        all_files/section_9_6_matrixAllocationAndPassingByReference.c
+        all_files/section_10_1_returnStringToFunction.c
+        all_files/section_10_2_ectraStringAndPointers.c
+        all_files/section_11_stringLength.c)
