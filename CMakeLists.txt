@@ -53,4 +53,5 @@ add_executable(c_language all_files/main.c
         all_files/section_9_6_matrixAllocationAndPassingByReference.c
         all_files/section_10_1_returnStringToFunction.c
         all_files/section_10_2_ectraStringAndPointers.c
-        all_files/section_11_stringLength.c)
+        all_files/section_11_stringLength.c
+        all_files/section_12_compare2StringsUsingPointers.c)
