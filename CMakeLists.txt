@@ -59,4 +59,6 @@ add_executable(c_language all_files/main.c
         all_files/section_13_dynamicallyAllocatedArrayOfStructs.c
         all_files/section_13_passingStuctsToFunctionsByValue.c
         all_files/section_13_structComposition.c
-        all_files/section_13_functionToDynamicallyAllocateArrayOfStructs.c)
+        all_files/section_13_functionToDynamicallyAllocateArrayOfStructs.c
+        all_files/section_14_proJectSchoolManagementSystem.c
+        all_files/section_15_memoryArchitectureAndDataAlignment.c)
