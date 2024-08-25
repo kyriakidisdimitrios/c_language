@@ -61,4 +61,8 @@ add_executable(c_language all_files/main.c
         all_files/section_13_structComposition.c
         all_files/section_13_functionToDynamicallyAllocateArrayOfStructs.c
         all_files/section_14_proJectSchoolManagementSystem.c
-        all_files/section_15_memoryArchitectureAndDataAlignment.c)
+        all_files/section_17_pointerToFunctions.c
+        all_files/section_17_arrayOfPointersToFunctions.c
+        all_files/section_18_sortingArratUsingFunctionPointers.c
+        all_files/section_18_pizzaMakingFunctionPointers.c
+        all_files/section_18_functionPointerWithVoidUniversalPointers.c)
