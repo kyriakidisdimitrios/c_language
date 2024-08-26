@@ -73,4 +73,13 @@ add_executable(c_language all_files/main.c
         all_files/section_19_splitOddEvenFiles.c
         all_files/section_19_compareTextualFiles.c
         all_files/section_19_assignements.c
-        all_files/section_20_writeRecordToFile.c)
+        all_files/section_20_writeRecordToFile.c
+        all_files/section_20_writing2PointsReadToFile.c
+        all_files/section_20_arrayOfPointsToAFile.c
+        all_files/section_20_searchForSpecificPoint.c
+        all_files/section_20_editASpecificPointInFile.c
+        all_files/section_20_multiplyBy3ASpecificPointInTheFile.c
+        all_files/section_20_reverseOrderOfPointsInFile.c
+        all_files/section_20_addPointToExisitingFile.c
+        all_files/section_20_deletePointFromFile.c
+        all_files/section_20_advancedBinaryStudentRecords.c)
