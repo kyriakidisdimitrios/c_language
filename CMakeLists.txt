@@ -65,4 +65,12 @@ add_executable(c_language all_files/main.c
         all_files/section_17_arrayOfPointersToFunctions.c
         all_files/section_18_sortingArratUsingFunctionPointers.c
         all_files/section_18_pizzaMakingFunctionPointers.c
-        all_files/section_18_functionPointerWithVoidUniversalPointers.c)
+        all_files/section_18_functionPointerWithVoidUniversalPointers.c
+        all_files/section_19_removeFunction.c
+        all_files/section_19_renameFunction.c
+        all_files/section_19_ftellFseekRewind.c
+        all_files/section_19_remoceSpaceCharacters.c
+        all_files/section_19_splitOddEvenFiles.c
+        all_files/section_19_compareTextualFiles.c
+        all_files/section_19_assignements.c
+        all_files/section_20_writeRecordToFile.c)
