@@ -82,4 +82,11 @@ add_executable(c_language all_files/main.c
         all_files/section_20_reverseOrderOfPointsInFile.c
         all_files/section_20_addPointToExisitingFile.c
         all_files/section_20_deletePointFromFile.c
-        all_files/section_20_advancedBinaryStudentRecords.c)
+        all_files/section_20_advancedBinaryStudentRecords.c
+        all_files/section_22_enums.c
+        all_files/section_24_freqAsValue.c
+        all_files/section_24_findDominantValue.c
+        all_files/section_24_findSpecificValueMaxSum.c
+        all_files/section_24_findLargestMissingValue.c
+        all_files/section_24_areAllCharactersIncluded.c
+)
