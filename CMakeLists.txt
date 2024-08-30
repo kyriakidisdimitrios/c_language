@@ -92,4 +92,7 @@ add_executable(c_language all_files/main.c
         all_files/section_26_bitFields.c
         all_files/section_26_controlRegisterBitFields.c
         all_files/section_26_fileSystemInfo.c
+        all_files/section_27_imageRepresantation.c
+        all_files/section_27_mergeFunctionality.c
+        all_files/saection_27_practicalImplementations.c
 )
