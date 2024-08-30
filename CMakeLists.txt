@@ -89,4 +89,7 @@ add_executable(c_language all_files/main.c
         all_files/section_24_findSpecificValueMaxSum.c
         all_files/section_24_findLargestMissingValue.c
         all_files/section_24_areAllCharactersIncluded.c
+        all_files/section_26_bitFields.c
+        all_files/section_26_controlRegisterBitFields.c
+        all_files/section_26_fileSystemInfo.c
 )
